@@ -3,3 +3,37 @@ body
     background-color: black;
     color:white;
 }
+
+.map
+{
+    position: relative;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+a
+{
+    font-size: 30px;
+}
+
+.star
+{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+
+.star:hover
+{
+    border: 4px solid green;
+}
+
+.point-1
+{
+    top: 14%;
+    left: 2%;
+}
