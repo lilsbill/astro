@@ -19,34 +19,48 @@ a
 
 .point-1
 {
-    top: 14%;
+    top: 13.5%;
     left: 2%;
+}
+
+.point-2
+{
+    top: 16%;
+    left: 15%;
+}
+
+.point-3
+{
+    top: 22%;
+    left: 21%;
 }
 
 .star
 {
     position: absolute;
-    width: 20px;
-    height: 20px;
+    width: 30px;
+    height: 30px;
     background-color: white;
     border-radius: 50%;
-    border: 6px solid white;
 }
 
 .star1-text
 {
     display: none;
-    color: #ff5722;
-
+    color: #ffffff;
+    font-size: 30px;
 }
 
 .star:hover
 {
-    border: 6px solid rgb(41, 3, 255);
+    background-color: rgb(1, 52, 255);
 }
 
-.info-text:hover .star1-text 
+.info-text:hover
 {
-  display: block;
+    .star1-text
+    {
+        display: block;
+    }
+    
 }
-
