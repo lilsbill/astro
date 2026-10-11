@@ -12,6 +12,8 @@ body
     margin: 0 auto;
 }
 
+
+
 a
 {
     font-size: 30px;
@@ -33,6 +35,18 @@ a
 {
     top: 22%;
     left: 21%;
+}
+
+.point-4
+{
+    top: 29%;
+    left: 28%;
+}
+
+.point-5
+{
+    top: 39%;
+    left: 28%;
 }
 
 .star
@@ -63,4 +77,65 @@ a
         display: block;
     }
     
+}
+
+.text
+{
+    position: absolute;
+}
+
+.text1
+{
+    position: absolute;
+    top: 165px;          
+    left: 12px;
+}
+
+.text2
+{
+    position: absolute;
+    top: 190px;          
+    left: 170px;
+}
+
+.text3
+{
+    position: absolute;
+    top: 190px;          
+    left: 170px;
+}
+
+.text4
+{
+    position: absolute;
+    top: 190px;          
+    left: 170px;
+}
+
+.text5
+{
+    position: absolute;
+    top: 190px;          
+    left: 170px;
+}
+
+.text6
+{
+    position: absolute;
+    top: 190px;          
+    left: 170px;
+}
+
+.text7
+{
+    position: absolute;
+    top: 190px;          
+    left: 170px;
+}
+
+.text8
+{
+    position: absolute;
+    top: 190px;          
+    left: 170px;
 }
