@@ -71,9 +71,43 @@ a
 
 .point-5
 {
-    top: 39%;
-    left: 50%;
+    top: 43.5%;
+    left: 38.5%;
 }
+
+.text5
+{
+    position: absolute;
+    top: 44.5%;
+    left: 38%;
+}
+
+.point-6
+{
+    top: 48%;
+    left: 45.5%;
+}
+
+.text6
+{
+    position: absolute;
+    top: 49%;
+    left: 45%;
+}
+
+.point-7
+{
+    top: 40%;
+    left: 48%;
+}
+
+.text7
+{
+    position: absolute;
+    top: 41%;
+    left: 47.5%;
+}
+
 
 .star
 {
