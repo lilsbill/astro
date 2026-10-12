@@ -12,8 +12,6 @@ body
     margin: 0 auto;
 }
 
-
-
 a
 {
     font-size: 30px;
@@ -21,32 +19,60 @@ a
 
 .point-1
 {
-    top: 13.5%;
-    left: 2%;
+    top: 21.5%;
+    left: 24.5%;
+}
+
+.text1
+{
+    position: absolute;
+    top: 23%;
+    left: 24%;
 }
 
 .point-2
 {
-    top: 16%;
-    left: 15%;
+    top: 23%;
+    left: 31.5%;
+}
+
+.text2
+{
+    position: absolute;
+    top: 24%;
+    left: 31%;
 }
 
 .point-3
 {
-    top: 22%;
-    left: 21%;
+    top: 29%;
+    left: 34.5%;
+}
+
+.text3
+{
+    position: absolute;
+    top: 30%;
+    left: 34%;
 }
 
 .point-4
 {
-    top: 29%;
-    left: 28%;
+    top: 35.5%;
+    left: 38.5%;
+}
+
+.text4
+{
+    position: absolute;
+    top: 36.5%;
+    left: 38%;
 }
 
 .point-5
 {
     top: 39%;
-    left: 28%;
+    left: 50%;
 }
 
 .star
@@ -58,84 +84,7 @@ a
     border-radius: 50%;
 }
 
-.star1-text
-{
-    display: none;
-    color: #ffffff;
-    font-size: 30px;
-}
-
 .star:hover
 {
     background-color: rgb(1, 52, 255);
-}
-
-.info-text:hover
-{
-    .star1-text
-    {
-        display: block;
-    }
-    
-}
-
-.text
-{
-    position: absolute;
-}
-
-.text1
-{
-    position: absolute;
-    top: 165px;          
-    left: 12px;
-}
-
-.text2
-{
-    position: absolute;
-    top: 190px;          
-    left: 170px;
-}
-
-.text3
-{
-    position: absolute;
-    top: 190px;          
-    left: 170px;
-}
-
-.text4
-{
-    position: absolute;
-    top: 190px;          
-    left: 170px;
-}
-
-.text5
-{
-    position: absolute;
-    top: 190px;          
-    left: 170px;
-}
-
-.text6
-{
-    position: absolute;
-    top: 190px;          
-    left: 170px;
-}
-
-.text7
-{
-    position: absolute;
-    top: 190px;          
-    left: 170px;
-}
-
-.text8
-{
-    position: absolute;
-    top: 190px;          
-    left: 170px;
 }
