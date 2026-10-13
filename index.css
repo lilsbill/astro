@@ -4,6 +4,15 @@ body
     color:white;
 }
 
+.star
+{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    background-color: white;
+    border-radius: 50%;
+}
+
 .map
 {
     position: relative;
@@ -26,8 +35,8 @@ a
 .text1
 {
     position: absolute;
-    top: 21.5%;
-    left: 20.3%;
+    top: 20.5%;
+    left: 20.1%;
 }
 
 .point-2
@@ -39,8 +48,8 @@ a
 .text2
 {
     position: absolute;
-    top: 23%;
-    left: 31.5%;
+    top: 22.5%;
+    left: 31.3%;
 }
 
 .point-3
@@ -52,8 +61,8 @@ a
 .text3
 {
     position: absolute;
-    top: 31.5%;
-    left: 36%;
+    top: 30.5%;
+    left: 35.5%;
 }
 
 .point-4
@@ -65,7 +74,7 @@ a
 .text4
 {
     position: absolute;
-    top: 38.5%;
+    top: 38%;
     left: 41.5%;
 }
 
@@ -84,14 +93,14 @@ a
 
 .point-6
 {
-    top: 53%;
+    top: 51%;
     left: 53.5%;
 }
 
 .text6
 {
     position: absolute;
-    top: 54.5%;
+    top: 52.5%;
     left: 52.5%;
 }
 
@@ -104,7 +113,7 @@ a
 .text7
 {
     position: absolute;
-    top: 45%;
+    top: 44.5%;
     left: 57%;
 }
 
@@ -118,7 +127,7 @@ a
 {
     position: absolute;
     top: 61.5%;
-    left: 36.5%;
+    left: 38%;
 }
 
 
@@ -131,46 +140,39 @@ a
 .text9
 {
     position: absolute;
-    top: 77%;
-    left: 41%;
+    top: 76.5%;
+    left: 42.4%;
 }
 
 
 .point-10
 {
     top: 91%;
-    left: 50%;
+    left: 49%;
 }
 
 .text10
 {
     position: absolute;
-    top: 93%;
+    top: 92.5%;
     left: 49.5%;
 }
 
 .point-11
 {
-    top: 89%;
-    left: 54.5%;
+    top: 87%;
+    left: 55%;
 }
 
 .text11
 {
     position: absolute;
-    top: 91%;
-    left: 54%;
+    top: 88.5%;
+    left: 55.6%;
 }
 
 
-.star
-{
-    position: absolute;
-    width: 30px;
-    height: 30px;
-    background-color: white;
-    border-radius: 50%;
-}
+
 
 .star:hover
 {
