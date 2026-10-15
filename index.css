@@ -4,6 +4,25 @@ body
     color:white;
 }
 
+.hidden 
+{
+    display: none;
+}
+
+button
+{
+    width:155px;
+    font-size: 19px;
+}
+
+.buttons-vert
+{
+    display: flex;
+    flex-direction: column; /* Stacks the buttons vertically */
+    gap: 10px;              /* Adds consistent space between buttons */
+    width: 200px;
+}
+
 .star
 {
     position: absolute;
