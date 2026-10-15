@@ -88,3 +88,17 @@
     top: 86%;
     left: 77.5%;
 }
+
+.lines
+{
+    position: absolute;
+    width: 170px;
+    height: 5px;
+    background: #ffffff;
+    color: white;
+    top: 20%;
+    left: 22%;
+    transform-origin: left;
+    transform: rotate(6deg);
+
+}

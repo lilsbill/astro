@@ -13,6 +13,9 @@ button
 {
     width:155px;
     font-size: 19px;
+    background-color: white;
+    border-radius: 10px;
+    border-color: white;
 }
 
 .buttons-vert
