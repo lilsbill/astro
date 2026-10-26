@@ -204,3 +204,113 @@
 {
     background: #505e66;
 }
+
+#line11
+{
+    width: 100px;
+    height: 5px;
+    top: 50%;
+    left: 73.8%;
+    transform-origin: left;
+    transform: rotate(140deg);
+}
+
+#line12
+{
+    width: 180px;
+    height: 5px;
+    top: 51%;
+    left: 74%;
+    transform-origin: left;
+    transform: rotate(22.8deg);
+}
+
+#line13
+{
+    width: 250px;
+    height: 5px;
+    top: 58%;
+    left: 69%;
+    transform-origin: left;
+    transform: rotate(2deg);
+}
+
+#line14
+{
+    width: 100px;
+    height: 5px;
+    top: 57%;
+    left: 69%;
+    transform-origin: left;
+    transform: rotate(108deg);
+}
+
+#line15
+{
+    width: 130px;
+    height: 5px;
+    top: 61%;
+    left: 38.5%;
+    transform-origin: left;
+    transform: rotate(62deg);
+}
+
+#line16
+{
+    width: 160px;
+    height: 5px;
+    top: 77%;
+    left: 43%;
+    transform-origin: left;
+    transform: rotate(51deg);
+}
+
+#line17
+{
+    width: 220px;
+    height: 5px;
+    top: 77%;
+    left: 43%;
+    transform-origin: left;
+    transform: rotate(26deg);
+}
+
+#line17
+{
+    width: 80px;
+    height: 5px;
+    top: 70%;
+    left: 67%;
+    transform-origin: left;
+    transform: rotate(53deg);
+}
+
+#line18
+{
+    width: 150px;
+    height: 5px;
+    top: 77%;
+    left: 70%;
+    transform-origin: left;
+    transform: rotate(32deg);
+}
+
+#line19
+{
+    width: 120px;
+    height: 5px;
+    top: 77%;
+    left: 70%;
+    transform-origin: left;
+    transform: rotate(61deg);
+}
+
+#line20
+{
+    width: 220px;
+    height: 5px;
+    top: 77%;
+    left: 43%;
+    transform-origin: left;
+    transform: rotate(26deg);
+}
