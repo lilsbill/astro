@@ -1,5 +1,5 @@
 const toggleBtn = document.getElementById('toggle-btn');
-const removeText = document.getElementById('hide_text');
+const removeText = document.getElementById('line_star');
 
 // Listen for a click on the button
 toggleBtn.addEventListener('click', () => {
@@ -41,6 +41,7 @@ toggleNms.addEventListener('click', () =>
 const toggleBd = document.getElementById('toggle-bd');
 const removeBdtext = document.getElementById('text_stars');
 const removeBdstar = document.getElementById('no_stars');
+const removeDpline = document.getElementById('dipper_line');
 
 
 toggleBd.addEventListener('click', () =>
@@ -50,11 +51,13 @@ toggleBd.addEventListener('click', () =>
     toggleBd.textContent = 'All Stars';
     removeBdtext.classList.toggle('hidden');
     removeBdstar.classList.toggle('hidden');
+    removeDpline.classList.toggle('hidden');
   }
   else
   {
     toggleBd.textContent = 'Big Dipper Only';
     removeBdtext.classList.toggle('hidden');
     removeBdstar.classList.toggle('hidden');
+    removeDpline.classList.toggle('hidden');
   }
 });

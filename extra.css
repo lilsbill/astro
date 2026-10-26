@@ -92,13 +92,95 @@
 .lines
 {
     position: absolute;
+    background: #2c87bc;
+    color: white;
+}
+
+#line1
+{
     width: 170px;
     height: 5px;
-    background: #ffffff;
-    color: white;
     top: 20%;
     left: 22%;
     transform-origin: left;
     transform: rotate(6deg);
+}
 
+#line2
+{
+    width: 100px;
+    height: 5px;
+    top: 22%;
+    left: 32.5%;
+    transform-origin: left;
+    transform: rotate(42deg);
+}
+
+#line3
+{
+    width: 110px;
+    height: 5px;
+    top: 29.8%;
+    left: 37%;
+    transform-origin: left;
+    transform: rotate(35deg);
+}
+
+#line4
+{
+    width: 225px;
+    height: 5px;
+    top: 38%;
+    left: 43%;
+    transform-origin: left;
+    transform: rotate(-1deg);
+}
+
+#line5
+{
+    width: 140px;
+    height: 5px;
+    top: 53.2%;
+    left: 45%;
+    transform-origin: left;
+}
+
+#line6
+{
+    width: 135px;
+    height: 5px;
+    top: 38%;
+    left: 43.3%;
+    transform-origin: left;
+    transform: rotate(82deg);
+}
+
+#line7
+{
+    width: 135px;
+    height: 5px;
+    top: 38%;
+    left: 58%;
+    transform-origin: left;
+    transform: rotate(115deg);
+}
+
+#line8
+{
+    width: 135px;
+    height: 5px;
+    top: 55%;
+    left: 58%;
+    transform-origin: left;
+    transform: rotate(115deg);
+}
+
+#line9
+{
+    width: 135px;
+    height: 5px;
+    top: 55%;
+    left: 66%;
+    transform-origin: left;
+    transform: rotate(115deg);
 }
