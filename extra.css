@@ -92,8 +92,13 @@
 .lines
 {
     position: absolute;
-    background: #2c87bc;
     color: white;
+    background: #2c87bc;
+}
+
+#lines_more
+{
+    background: #2c87bc; 
 }
 
 #line1
@@ -167,20 +172,35 @@
 
 #line8
 {
-    width: 135px;
+    width: 260px;
     height: 5px;
-    top: 55%;
+    top: 37%;
     left: 58%;
     transform-origin: left;
-    transform: rotate(115deg);
+    transform: rotate(25.5deg);
 }
 
 #line9
 {
-    width: 135px;
+    width: 120px;
     height: 5px;
-    top: 55%;
-    left: 66%;
+    top: 52.5%;
+    left: 45%;
     transform-origin: left;
-    transform: rotate(115deg);
+    transform: rotate(144deg);
+}
+
+#line10
+{
+    width: 230px;
+    height: 5px;
+    top: 53%;
+    left: 54%;
+    transform-origin: left;
+    transform: rotate(10deg);
+}
+
+#dipper_line
+{
+    background: #505e66;
 }
