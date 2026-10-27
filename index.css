@@ -193,12 +193,14 @@ a
     left: 55.6%;
 }
 
-
-
-
 .star:hover
 {
     background-color: rgb(1, 52, 255);
+}
+
+.star:visited
+{
+    background-color: rgb(225, 142, 255);
 }
 
 img
