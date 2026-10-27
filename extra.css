@@ -1,39 +1,39 @@
 .point-12
 {
-    top: 49.5%;
+    top: 42%;
     left: 73%;
 }
 
 .text12
 {
     position: absolute;
-    top: 51.5%;
+    top: 43.5%;
     left: 73.3%;
 }
 
 .point-13
 {
-    top: 57.5%;
+    top: 52%;
     left: 84%;
 }
 
 .text13
 {
     position: absolute;
-    top: 59%;
+    top: 53.5%;
     left: 84.5%;
 }
 
 .point-14
 {
-    top: 56.5%;
+    top: 54%;
     left: 68%;
 }
 
 .text14
 {
     position: absolute;
-    top: 58%;
+    top: 55.5%;
     left: 68.5%;
 }
 
@@ -172,12 +172,12 @@
 
 #line8
 {
-    width: 260px;
+    width: 255px;
     height: 5px;
     top: 37%;
     left: 58%;
     transform-origin: left;
-    transform: rotate(25.5deg);
+    transform: rotate(12.5deg);
 }
 
 #line9
@@ -197,7 +197,7 @@
     top: 53%;
     left: 54%;
     transform-origin: left;
-    transform: rotate(10deg);
+    transform: rotate(5deg);
 }
 
 #dipper_line
@@ -207,42 +207,42 @@
 
 #line11
 {
-    width: 100px;
+    width: 120px;
     height: 5px;
-    top: 50%;
-    left: 73.8%;
+    top: 43%;
+    left: 74%;
     transform-origin: left;
-    transform: rotate(140deg);
+    transform: rotate(128deg);
 }
 
 #line12
 {
     width: 180px;
     height: 5px;
-    top: 51%;
+    top: 43.5%;
     left: 74%;
     transform-origin: left;
-    transform: rotate(22.8deg);
+    transform: rotate(25deg);
 }
 
 #line13
 {
     width: 250px;
     height: 5px;
-    top: 58%;
+    top: 55%;
     left: 69%;
     transform-origin: left;
-    transform: rotate(2deg);
+    transform: rotate(-3deg);
 }
 
 #line14
 {
     width: 100px;
     height: 5px;
-    top: 57%;
-    left: 69%;
+    top: 56%;
+    left: 68.8%;
     transform-origin: left;
-    transform: rotate(108deg);
+    transform: rotate(106deg);
 }
 
 #line15
