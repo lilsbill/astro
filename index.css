@@ -203,6 +203,11 @@ a
     background-color: rgb(225, 142, 255);
 }
 
+.star:visited:hover
+{
+    background-color: rgb(1, 52, 255);
+}
+
 img
 {
     padding-left: 150px;
